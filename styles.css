@@ -44,7 +44,7 @@ input[type=number] {
     width: 6em;
 }
 
-.container {
+#container {
     text-align: center;
     width: 90%;
     margin: auto;
