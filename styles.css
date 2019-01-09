@@ -45,12 +45,11 @@ input[type=number] {
 }
 
 .container {
-    background-image: 
     text-align: center;
     width: 90%;
     margin: auto;
-    background: rgba(225, 152, 222, 0.4);
-    box-shadow: 0 0 10px 5px rgba(30, 30, 30, 0.6)
+    background: rgba(0, 0, 255, 0.3);
+    box-shadow: 0 0 10px 8px rgba(30, 30, 30, 0.6);
 }
 
 form {
