@@ -25,3 +25,14 @@ function makeGrid(height, width) {
 	});
 
 }
+function MouseRollover(MyHone) {
+            MyHone = document.querySelector('h1');
+             MyHone.style.color = '#ffff';
+
+           
+    }
+        function MouseOut(MyHone) {
+               MyHone.style.color = '#91DC22';
+    }
+
+ document.onmousemove = updateMyHonePosition; 
